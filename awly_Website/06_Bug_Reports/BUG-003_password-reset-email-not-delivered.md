@@ -30,4 +30,4 @@ No email is received in the inbox. Reset token is only accessible via Docker log
 User should receive a password reset email with a valid reset link.
 
 ### Attachments
-<!-- скрін success повідомлення якщо є -->
+<img width="1280" height="713" alt="Image" src="https://github.com/user-attachments/assets/b1da3733-68c1-4820-91e5-859e995b13ca" />
