@@ -31,4 +31,4 @@ Route `/reset-password` is missing in `src/main.tsx` despite the
 `ResetPassword` component being implemented.
 
 ### Attachments
-<!-- скрін сюди -->
+<img width="650" height="673" alt="Image" src="https://github.com/user-attachments/assets/e81672f3-d368-4ad1-b8c5-560a3e6877da" />
