@@ -12,8 +12,8 @@
 - App is running locally (Docker)
 
 ### Environment
-- OS: macOS 
-- Browser: Chrome 125
+- OS: macOS Sequoia 15.7.7
+- Browser: Chrome 149
 - App version: local dev build
 
 ---
