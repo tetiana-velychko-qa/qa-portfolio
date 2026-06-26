@@ -4,13 +4,13 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 1 | Verify Home page loads successfully | High | ⬜ Not Run | |
-| 2 | Verify logo is displayed | Low | ⬜ Not Run | |
-| 3 | Verify navigation menu is displayed | High | ⬜ Not Run | |
-| 4 | Verify hero section is displayed | Medium | ⬜ Not Run | |
-| 5 | Verify "View Services" button works | High | ⬜ Not Run | |
-| 6 | Verify Featured Services section is displayed | Medium | ⬜ Not Run | |
-| 7 | Verify footer is displayed correctly | Low | ⬜ Not Run | |
+| 1 | Verify Home page loads successfully | High |  🟢 Passed | |
+| 2 | Verify logo is displayed | Low |  🟢 Passed | |
+| 3 | Verify navigation menu is displayed | High |  🟢 Passed | |
+| 4 | Verify hero section is displayed | Medium | 🟢 Passed | |
+| 5 | Verify "View Services" button works | High |  🟢 Passed | |
+| 6 | Verify Featured Services section is displayed | Medium |  🟢 Passed | |
+| 7 | Verify footer is displayed correctly | Low |  🟢 Passed | |
 
 ---
 
@@ -18,11 +18,10 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 8 | Verify navigation to Clinics page | High | ⬜ Not Run | |
-| 9 | Verify navigation to Grooming page | High | ⬜ Not Run | |
-| 10 | Verify navigation to Pet Shops page | High | ⬜ Not Run | |
-| 11 | Verify navigation to Home page using logo | Medium | ⬜ Not Run | |
-| 12 | Verify active navigation item is highlighted | Low | ⬜ Not Run | |
+| 8 | Verify navigation to Clinics page | High |  🟢 Passed | |
+| 9 | Verify navigation to Grooming page | High |  🟢 Passed | |
+| 10 | Verify navigation to Pet Shops page | High |  🟢 Passed| |
+| 11 | Verify navigation to Home page using logo | Medium |  🟢 Passed | |
 
 ---
 
@@ -30,14 +29,14 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 13 | Verify Registration modal opens | High | ⬜ Not Run | |
-| 14 | Verify successful registration with valid data | High | ⬜ Not Run | |
-| 15 | Verify registration with invalid email | Medium | ⬜ Not Run | |
-| 16 | Verify registration with existing email | Medium | ⬜ Not Run | |
-| 17 | Verify registration with mismatched passwords | Medium | ⬜ Not Run | |
-| 18 | Verify registration with empty required fields | Medium | ⬜ Not Run | |
-| 19 | Verify password visibility toggle | Low | ⬜ Not Run | |
-| 20 | Verify Registration modal closes correctly | Low | ⬜ Not Run | |
+| 13 | Verify Registration modal opens | High |🟢 Passed | |
+| 14 | Verify successful registration with valid data | High | 🟢 Passed | |
+| 15 | Verify registration with invalid email | Medium | 🟢 Passed | |
+| 16 | Verify registration with existing email | Medium | 🟢 Passed | |
+| 17 | Verify registration with mismatched passwords | Medium | 🟢 Passed | |
+| 18 | Verify registration with empty required fields | Medium | 🟢 Passed | |
+| 19 | Verify password visibility toggle | Low | 🟢 Passed| |
+| 20 | Verify Registration modal closes correctly | Low | 🟢 Passed | |
 
 ---
 
@@ -45,12 +44,12 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 21 | Verify Login modal opens | High | ⬜ Not Run | |
-| 22 | Verify login with valid credentials | High | ⬜ Not Run | |
-| 23 | Verify login with invalid credentials | High | ⬜ Not Run | |
-| 24 | Verify login with empty required fields | Medium | ⬜ Not Run | |
-| 25 | Verify password visibility toggle | Low | ⬜ Not Run | |
-| 26 | Verify Login modal closes correctly | Low | ⬜ Not Run | |
+| 21 | Verify Login modal opens | High | 🟢 Passed | |
+| 22 | Verify login with valid credentials | High | 🟢 Passed | |
+| 23 | Verify login with invalid credentials | High | 🟢 Passed| |
+| 24 | Verify login with empty required fields | Medium |🟢 Passed | |
+| 25 | Verify password visibility toggle | Low | 🟢 Passed | |
+| 26 | Verify Login modal closes correctly | Low | 🟢 Passed | |
 
 ---
 
@@ -58,11 +57,11 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 27 | Verify Forgot Password modal opens | Medium | ⬜ Not Run | |
-| 28 | Verify password recovery with valid email | High | ⬜ Not Run | |
-| 29 | Verify password recovery with invalid email | Medium | ⬜ Not Run | |
-| 30 | Verify password recovery with empty email | Medium | ⬜ Not Run | |
-| 31 | Verify Forgot Password modal closes correctly | Low | ⬜ Not Run | |
+| 27 | Verify Forgot Password modal opens | Medium |  🟢 Passed| |
+| 28 | Verify password recovery with valid email | High |  🟢 Passed | |
+| 29 | Verify password recovery with invalid email | Medium |  🟢 Passed | |
+| 30 | Verify password recovery with empty email | Medium |  🟢 Passed | |
+| 31 | Verify Forgot Password modal closes correctly | Low |  🟢 Passed | |
 
 ---
 
@@ -70,12 +69,12 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 32 | Verify Profile page opens | High | ⬜ Not Run | |
-| 33 | Verify profile information is displayed | Medium | ⬜ Not Run | |
-| 34 | Verify Edit Profile functionality | High | ⬜ Not Run | |
+| 32 | Verify Profile page opens | High |  🟢 Passed | |
+| 33 | Verify profile information is displayed | Medium |  🟢 Passed | |
+| 34 | Verify Edit Profile functionality | High |  🟢 Passed | |
 | 35 | Verify Logout functionality | High | ⬜ Not Run | |
-| 36 | Verify unauthorized access restrictions | High | ⬜ Not Run | |
-
+| 36 | Verify unauthorized user cannot access /profile via direct URL | High | 🔴 Failed | |
+| 37 | Verify unauthorized user cannot access /profile via direct URL | High | 🔴 Failed | |
 ---
 
 ## Pet Management
