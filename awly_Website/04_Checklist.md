@@ -72,9 +72,9 @@
 | 32 | Verify Profile page opens | High |  🟢 Passed | |
 | 33 | Verify profile information is displayed | Medium |  🟢 Passed | |
 | 34 | Verify Edit Profile functionality | High |  🟢 Passed | |
-| 35 | Verify Logout functionality | High | ⬜ Not Run | |
-| 36 | Verify unauthorized user cannot access /profile via direct URL | High | 🔴 Failed | |
-| 37 | Verify unauthorized user cannot access /profile via direct URL | High | 🔴 Failed | |
+| 35 | Verify Logout functionality | High | 🟢 Passed | |
+| 36 | Verify unauthorized user cannot access /profile via direct URL | High | 🔴 Failed |[BR-004](./Bug_Reports/BR-004_Unauthorized_Profile_Access.md) |
+| 37 | Verify unauthorized user cannot access /profile via direct URL | High | 🔴 Failed | [BR-004](./Bug_Reports/BR-004_Unauthorized_Profile_Access.md)|
 ---
 
 ## Pet Management
