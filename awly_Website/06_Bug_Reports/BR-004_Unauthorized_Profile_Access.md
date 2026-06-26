@@ -1,4 +1,4 @@
-# BR-002: Unauthorized user can access Profile page via direct URL
+# BR-004: Unauthorized user can access Profile page via direct URL
 
 ## Summary
 
@@ -59,4 +59,4 @@ High
 
 ## Attachment
 
-Screen recording / Screenshot
+https://github.com/user-attachments/assets/2deec492-f661-4e93-9888-65083dc0bda6
