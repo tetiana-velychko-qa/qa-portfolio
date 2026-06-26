@@ -98,11 +98,13 @@ The following QA documentation will be created:
 
 Testing can begin when:
 
-- The website is available for testing.
-- Frontend and backend are running successfully.
-- Main pages are accessible.
-- Core functionality is implemented.
-- Test environment is prepared.
+- The project repository is available on GitHub.
+- The project is cloned locally (if testing a local environment).
+- Required dependencies are installed.
+- Frontend is successfully launched locally or the deployed website is available.
+- Backend is successfully launched using Docker (if testing a local environment).
+- The website is accessible in the browser.
+- Main functionality is implemented and ready for testing.
 - Basic requirements or expected behavior are understood.
 
 ---
@@ -178,6 +180,3 @@ The following tools are used during testing:
 
 ---
 
-## 14. Notes
-
-This test plan may be updated during the testing process if requirements, functionality, or project scope changes.
