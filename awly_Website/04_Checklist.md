@@ -145,12 +145,12 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 67 | Verify unauthorized user cannot access protected actions | High | ⬜ Not Run | |
-| 68 | Verify direct access to `/profile` | High | ⬜ Not Run | |
-| 69 | Verify direct access to `/petCreate` | High | ⬜ Not Run | |
-| 70 | Verify JavaScript input is not executed | Medium | ⬜ Not Run | |
-| 71 | Verify password is hidden by default | Low | ⬜ Not Run | |
-| 72 | Verify session is cleared after logout | High | ⬜ Not Run | |
+| 67 | Verify unauthorized user cannot access protected actions | High | 🔴 Failed | [BR-004](./06_Bug_Reports/BR-004_Unauthorized_Profile_Access.md) |
+| 68 | Verify direct access to `/profile` | High | 🔴 Failed| [BR-004](./06_Bug_Reports/BR-004_Unauthorized_Profile_Access.md) |
+| 69 | Verify direct access to `/petCreate` | High |🔴 Failed | [BR-004](./06_Bug_Reports/BR-004_Unauthorized_Profile_Access.md) |
+| 70 | Verify JavaScript input is not executed | Medium | 🟢 Passed | |
+| 71 | Verify password is hidden by default | Low | 🟢 Passed | |
+| 72 | Verify session is cleared after logout | High | 🟢 Passed | |
 
 ---
 
@@ -158,8 +158,8 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 73 | Verify buttons are readable | Low | ⬜ Not Run | |
-| 74 | Verify inputs have labels/placeholders | Medium | ⬜ Not Run | |
-| 75 | Verify keyboard navigation | Medium | ⬜ Not Run | |
-| 76 | Verify focus visibility | Low | ⬜ Not Run | |
-| 77 | Verify images do not affect usability | Low | ⬜ Not Run | |
+| 73 | Verify buttons are readable | Low | 🟢 Passed | |
+| 74 | Verify inputs have labels/placeholders | Medium | 🟢 Passed | |
+| 75 | Verify keyboard navigation | Medium | 🟢 Passed | |
+| 76 | Verify focus visibility | Low | 🟢 Passed | |
+| 77 | Verify images do not affect usability | Low | 🟢 Passed | |
