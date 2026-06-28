@@ -4,7 +4,7 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 1 | Verify Home page loads successfully | High |  🟢 Passed | |
+| 1 | Verify Home page loads successfully | High | 🟢 Passed | |
 | 2 | Verify logo is displayed | Low |  🟢 Passed | |
 | 3 | Verify navigation menu is displayed | High |  🟢 Passed | |
 | 4 | Verify hero section is displayed | Medium | 🟢 Passed | |
