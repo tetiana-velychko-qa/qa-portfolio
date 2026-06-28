@@ -81,13 +81,13 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 37 | Verify Add Pet page opens | High | ⬜ Not Run | |
-| 38 | Verify pet creation with valid data | High | ⬜ Not Run | |
-| 39 | Verify required field validation | Medium | ⬜ Not Run | |
-| 40 | Verify invalid input validation | Medium | ⬜ Not Run | |
-| 41 | Verify created pet is displayed | Medium | ⬜ Not Run | |
-| 42 | Verify pet editing | High | ⬜ Not Run | |
-| 43 | Verify pet deletion | High | ⬜ Not Run | |
+| 37 | Verify Add Pet page opens | High |  🟢 Passed | |
+| 38 | Verify pet creation with valid data | High |  🟢 Passed | |
+| 39 | Verify required field validation | Medium |  🟢 Passed | |
+| 40 | Verify invalid input validation | Medium |  🟢 Passed | |
+| 41 | Verify created pet is displayed | Medium |  🟢 Passed | |
+| 42 | Verify pet editing | High |  🟢 Passed | |
+| 43 | Verify pet deletion | High |  🟢 Passed | |
 
 ---
 
@@ -95,12 +95,12 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 44 | Verify Clinics page opens | High | ⬜ Not Run | |
-| 45 | Verify clinic cards are displayed | Medium | ⬜ Not Run | |
-| 46 | Verify clinic search | High | ⬜ Not Run | |
-| 47 | Verify working hours filter | Medium | ⬜ Not Run | |
-| 48 | Verify empty search result | Low | ⬜ Not Run | |
-| 49 | Verify clinic markers on the map | Medium | ⬜ Not Run | |
+| 44 | Verify Clinics page opens | High | 🟢 Passed | |
+| 45 | Verify clinic cards are displayed | Medium | 🟢 Passed | |
+| 46 | Verify clinic search | High | 🟢 Passed | |
+| 47 | Verify working hours filter | Medium | 🟢 Passed | |
+| 48 | Verify empty search result | Low | 🟢 Passed | |
+| 49 | Verify clinic markers on the map | Medium | 🟢 Passed  | |
 
 ---
 
@@ -108,12 +108,12 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 50 | Verify Grooming page opens | High | ⬜ Not Run | |
-| 51 | Verify grooming cards are displayed | Medium | ⬜ Not Run | |
-| 52 | Verify grooming search | High | ⬜ Not Run | |
-| 53 | Verify working hours filter | Medium | ⬜ Not Run | |
-| 54 | Verify empty search result | Low | ⬜ Not Run | |
-| 55 | Verify grooming markers on the map | Medium | ⬜ Not Run | |
+| 50 | Verify Grooming page opens | High | 🟢 Passed  | |
+| 51 | Verify grooming cards are displayed | Medium | 🟢 Passed  | |
+| 52 | Verify grooming search | High | 🟢 Passed  | |
+| 53 | Verify working hours filter | Medium | 🟢 Passed  | |
+| 54 | Verify empty search result | Low |🟢 Passed  | |
+| 55 | Verify grooming markers on the map | Medium | 🟢 Passed | |
 
 ---
 
@@ -121,12 +121,12 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 56 | Verify Pet Shops page opens | High | ⬜ Not Run | |
-| 57 | Verify shop cards are displayed | Medium | ⬜ Not Run | |
-| 58 | Verify shop search | High | ⬜ Not Run | |
-| 59 | Verify working hours filter | Medium | ⬜ Not Run | |
-| 60 | Verify empty search result | Low | ⬜ Not Run | |
-| 61 | Verify shop markers on the map | Medium | ⬜ Not Run | |
+| 56 | Verify Pet Shops page opens | High | 🟢 Passed | |
+| 57 | Verify shop cards are displayed | Medium | 🟢 Passed | |
+| 58 | Verify shop search | High | 🟢 Passed| |
+| 59 | Verify working hours filter | Medium | 🟢 Passed | |
+| 60 | Verify empty search result | Low | 🟢 Passed | |
+| 61 | Verify shop markers on the map | Medium | 🟢 Passed | |
 
 ---
 
@@ -134,11 +134,10 @@
 
 | # | Checklist Item | Priority | Result | Comment |
 |---|----------------|----------|--------|---------|
-| 62 | Verify map is displayed | Medium | ⬜ Not Run | |
-| 63 | Verify location markers | Medium | ⬜ Not Run | |
-| 64 | Verify zoom controls | Low | ⬜ Not Run | |
-| 65 | Verify fullscreen mode | Low | ⬜ Not Run | |
-| 66 | Verify satellite view | Low | ⬜ Not Run | |
+| 62 | Verify map is displayed | Medium | 🟢 Passed | |
+| 63 | Verify location markers | Medium | 🟢 Passed | |
+| 64 | Verify zoom controls | Low | 🟢 Passed | |
+| 66 | Verify satellite view | Low | 🟢 Passed | |
 
 ---
 
