@@ -1,7 +1,7 @@
 # Test Suite: Navigation
 
 ## OVERVIEW
-https://pawly-app.com
+[https://pawly-app.com](https://pawlyapp.me/)
 
 ## COMMON ADDITIONAL INFO
 | | |
