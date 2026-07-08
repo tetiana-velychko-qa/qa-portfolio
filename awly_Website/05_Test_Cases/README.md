@@ -8,7 +8,7 @@ This folder contains detailed test cases derived from the test scenarios, organi
 |---|---|---|---|---|
 | Home Page | [TS-01_Home_Page.md](./TS-01_Home_Page.md) | 3 | 3 | 0 |
 | Navigation | [TS-02_Navigation.md](./TS-02_Navigation.md) | 3 | 3 | 0 |
-| Registration | [TS-03_Registration.md](./TS-03_Registration.md) | 5 | 4 | 1 |
+| Registration | [TS-03_Registration.md](./TS-03_Registration.md) | 5 | 5 | 0 |
 | Login | [TS-04_Login.md](./TS-04_Login.md) | 3 | 3 | 0 |
 | Forgot Password | [TS-05_Forgot_Password.md](./TS-05_Forgot_Password.md) | 2 | 2 | 0 |
 | User Profile | [TS-06_User_Profile.md](./TS-06_User_Profile.md) | 3 | 2 | 1 |
