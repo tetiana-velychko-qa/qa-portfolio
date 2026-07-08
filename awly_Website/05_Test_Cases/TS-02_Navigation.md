@@ -1,7 +1,7 @@
 # Test Suite: Navigation
 
 ## OVERVIEW
-https://pawly-app.com (заміни на реальний URL)
+https://pawly-app.com
 
 ## COMMON ADDITIONAL INFO
 | | |
