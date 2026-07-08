@@ -19,7 +19,7 @@ This folder contains detailed test cases derived from the test scenarios, organi
 | Basic Security | [TS-11_Basic_Security.md](./TS-11_Basic_Security.md) | 2 | 1 | 1 |
 | Accessibility | [TS-12_Accessibility.md](./TS-12_Accessibility.md) | 1 | 1 | 0 |
 
-**Total: 30 test cases | 28 Passed | 2 Failed**
+**Total: 30 test cases | 28 Passed | 3 Failed**
 
 ## Legend
 - ✅ Passed — actual result matches expected result
