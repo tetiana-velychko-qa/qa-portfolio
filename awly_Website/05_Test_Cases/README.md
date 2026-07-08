@@ -16,7 +16,7 @@ This folder contains detailed test cases derived from the test scenarios, organi
 | Clinics | [TS-08_Clinics.md](./TS-08_Clinics.md) | 2 | 2 | 0 |
 | Map | [TS-09_Map.md](./TS-09_Map.md) | 1 | 1 | 0 |
 | Search and Filters | [TS-10_Search_and_Filters.md](./TS-10_Search_and_Filters.md) | 1 | 1 | 0 |
-| Basic Security | [TS-11_Basic_Security.md](./TS-11_Basic_Security.md) | 2 | 2 | 0 |
+| Basic Security | [TS-11_Basic_Security.md](./TS-11_Basic_Security.md) | 2 | 1 | 1 |
 | Accessibility | [TS-12_Accessibility.md](./TS-12_Accessibility.md) | 1 | 1 | 0 |
 
 **Total: 30 test cases | 28 Passed | 2 Failed**
