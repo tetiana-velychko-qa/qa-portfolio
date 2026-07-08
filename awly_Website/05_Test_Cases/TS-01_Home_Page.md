@@ -1,7 +1,7 @@
 # Test Suite: Home Page
 
 ## OVERVIEW
-https://pawly-app.com (заміни на реальний URL)
+[https://pawly-app.com ](https://pawlyapp.me/)
 
 ## COMMON ADDITIONAL INFO
 | | |
