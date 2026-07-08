@@ -1,7 +1,7 @@
 # Test Suite: Registration
 
 ## OVERVIEW
-https://pawly-app.com (заміни на реальний URL)
+[https://pawly-app.com (заміни на реальний URL)](https://pawlyapp.me/)
 
 ## COMMON ADDITIONAL INFO
 | | |
